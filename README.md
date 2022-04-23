@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DidierMalenfant
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning music making
+- 🕹 I'm interested in the Playdate console
+- 🔊 I’m currently learning music making
 
 <!---
 DidierMalenfant/DidierMalenfant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
